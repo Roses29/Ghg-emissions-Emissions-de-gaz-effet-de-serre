@@ -1,4 +1,4 @@
-🌍 [Lire en Français](README_FR.md) | 📓 [Voir PDF](./VIsualization CO2.pdf)
+🌍 [Lire en Français](README_FR.md) | 📓 [Voir PDF](./Visualization_CO2.pdf)
 
 # Greenhouse gas emissions 
 
