@@ -22,10 +22,10 @@ Key areas explored:
 
 ## 💡 Key Insights
 
-- Rwanda’s emissions remain relatively low despite population growth, with no clear direct correlation between the two :contentReference[oaicite:0]{index=0}  
-- Emissions peaked around 2019 (~1.19 million tonnes) :contentReference[oaicite:1]{index=1}  
+- Rwanda’s emissions remain relatively low despite population growth, with no clear direct correlation between the two
+- Emissions peaked around 2019 (~1.19 million tonnes)
 - High-income countries contribute disproportionately to global emissions  
-- Coal is the dominant source of emissions in major economies like China (~73%) :contentReference[oaicite:2]{index=2}  
+- Coal is the dominant source of emissions in major economies like China (~73%)
 - Global trade plays a major role in redistributing carbon emissions across countries  
 
 This project demonstrates the use of data visualization to uncover environmental and economic patterns in global CO₂ emissions.
