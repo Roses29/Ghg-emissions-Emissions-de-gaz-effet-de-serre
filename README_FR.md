@@ -22,10 +22,10 @@ Axes principaux étudiés :
 
 ## 💡 Résultats clés
 
-- Les émissions du Rwanda restent faibles malgré la croissance de la population, sans corrélation directe évidente :contentReference[oaicite:3]{index=3}  
-- Pic d’émissions autour de 2019 (~1,19 million de tonnes) :contentReference[oaicite:4]{index=4}  
+- Les émissions du Rwanda restent faibles malgré la croissance de la population, sans corrélation directe évidente
+- Pic d’émissions autour de 2019 (~1,19 million de tonnes)
 - Les pays à hauts revenus sont les principaux contributeurs aux émissions mondiales  
-- Le charbon représente la principale source d’émissions dans les grandes économies (~73% en Chine) :contentReference[oaicite:5]{index=5}  
-- Le commerce international joue un rôle important dans la répartition des émissions  
+- Le charbon représente la principale source d’émissions dans les grandes économies (~73% en Chine)
+- Le commerce international joue un rôle important dans la répartition des émissions 
 
 Ce projet illustre comment la data visualisation permet d’analyser des enjeux environnementaux et économiques complexes.
