@@ -1,4 +1,4 @@
-🌍 [Read in English ](README.md) | 📓 [See PDF](./Visualization_CO2.pdf)
+🌍 [Read in English ](README.md) | 📓 [Voir PDF](./Visualization_CO2.pdf)
 
 # Analyse des émissions de gaz à effet de serre
 
